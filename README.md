@@ -17,3 +17,7 @@ Em seguida, utilize o comando: npm start
 
 
 http://localhost:8080/
+
+
+
+npm install --save-dev @testing-library/react --force
