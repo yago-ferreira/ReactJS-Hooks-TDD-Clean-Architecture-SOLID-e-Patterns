@@ -21,3 +21,5 @@ http://localhost:8080/
 
 
 npm install --save-dev @testing-library/react --force
+
+para rodar o teste:npm test -- --watch
