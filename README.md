@@ -13,8 +13,9 @@ Sistema completo, consumindo uma API Rest
 
 Para funcionar o Sistema, primeiro precisa instalar dependência do webpack para executar o projeto, pois não estou utilizando o React para fazer isso.
 
-Comando:npm install webpack-dev-server --save-dev
-Em seguida, utilize o comando: 
-1. npm start
-2.npm install --save-dev @testing-library/react --force
-3.para rodar o teste:npm test -- --watch
+Utilize o comando: 
+1.npm install webpack-dev-server --save-dev <br>
+2. npm start <br> 
+3.npm install --save-dev @testing-library/react --force <br>
+4.para rodar o teste:npm test -- --watch <br>
+ 
