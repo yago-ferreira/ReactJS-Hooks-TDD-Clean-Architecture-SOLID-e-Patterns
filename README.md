@@ -11,15 +11,10 @@ Animações com CSS
 Sistema completo, consumindo uma API Rest
 
 
-Para funcionar o Sistema, primeiro precisa instalar dependência do webpack para start o projeto, pois não estou utilizando o React para fazer isso.
+Para funcionar o Sistema, primeiro precisa instalar dependência do webpack para executar o projeto, pois não estou utilizando o React para fazer isso.
+
 Comando:npm install webpack-dev-server --save-dev
-Em seguida, utilize o comando: npm start
-
-
-http://localhost:8080/
-
-
-
-npm install --save-dev @testing-library/react --force
-
-para rodar o teste:npm test -- --watch
+Em seguida, utilize o comando: 
+1. npm start
+2.npm install --save-dev @testing-library/react --force
+3.para rodar o teste:npm test -- --watch
