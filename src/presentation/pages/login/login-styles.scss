@@ -26,18 +26,6 @@
 
         }
 
-        .inputWrap{
-            margin-top: 16px;
-            display: flex;
-            flex-direction: column;
-            position: relative;
-            
-
-            input:nth-child(2) { //aplicando margin apenas para segundo input
-                margin-top: 5px;
-
-            }
-        }
 
         .submit {
             margin-top: 32px;

@@ -1,0 +1,19 @@
+
+.inputWrap{
+    margin-top: 16px;
+    display: flex;
+   
+    position: relative;
+    align-items: center;
+
+    input {
+        flex-grow: 1;
+    }
+
+    
+
+    input:nth-child(2) { //aplicando margin apenas para segundo input
+        margin-top: 5px;
+
+    }
+}
